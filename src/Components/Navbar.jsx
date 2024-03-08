@@ -4,7 +4,7 @@ const Navbar = () => {
   //Navigation bar
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-info-subtle">
+      <nav className="navbar navbar-expand-lg bg-secondary-subtle">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
             Shopping Cart

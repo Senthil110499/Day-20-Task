@@ -47,7 +47,7 @@ const Cart = () => {
   return (
     <>
       <Navbar />
-      <div className="container-fluid h-10 sticky-top bg-success-subtle">
+      <div className="container-fluid h-10 sticky-top bg-info-subtle">
         <ul>
           <li className="qty">
             <b>Total Qty:</b> {totalQty}

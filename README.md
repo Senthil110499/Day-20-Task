@@ -23,4 +23,4 @@
 + Git and GitHub
 + netlify
 
-React-Redux Shopping Cart Task Netlify Link ()
+React-Redux Shopping Cart Task Netlify Link (https://redux-shopping-cart-tasks.netlify.app/)
